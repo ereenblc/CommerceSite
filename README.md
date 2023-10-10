@@ -5,7 +5,7 @@ My First Django Project, a very basic website done completely amateurishly. My g
 ![image](https://github.com/ereenblc/CommerceSite/assets/139506015/4f90204d-798d-4b3e-88c9-b94e92f83904)
 ![image](https://github.com/ereenblc/CommerceSite/assets/139506015/8af0188f-b5d6-4260-8632-0a5cc6b2eae6)
 
-# Specicif Item and Its Related Items 
+# Specific Item and Its Related Items 
 ![image](https://github.com/ereenblc/CommerceSite/assets/139506015/6e6d95db-ed7e-415a-a237-7f47ed5bc310)
 ![image](https://github.com/ereenblc/CommerceSite/assets/139506015/4cad70bf-50d0-4cf9-aaec-35e74d2c0ea7)
 ![image](https://github.com/ereenblc/CommerceSite/assets/139506015/f69f31c6-7126-440a-9712-2f6d273ee92e)
