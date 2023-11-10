@@ -1,5 +1,5 @@
 # My First Django Project 
-My First Django Project, a very basic website done completely amateurishly. My goal is not to become a Django developer, but simply to learn how websites function at a level that will be useful during my cybersecurity training, and to understand what HTML and CSS codes do in a straightforward manner. That is why I am working on improving this project. I couldn not make the payment page dynamic due to my busy school schedule, but it will be completed soon.
+My First Django Project, a very basic website done completely amateurishly.
 
 # Main Page 
 ![image](https://github.com/ereenblc/CommerceSite/assets/139506015/4f90204d-798d-4b3e-88c9-b94e92f83904)
